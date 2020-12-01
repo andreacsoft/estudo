@@ -1,0 +1,14 @@
+COMANDOS DO GIT
+
+git init
+
+ls -a (mostrara a pasta gerencial do git)
+
+git add
+
+git commit
+
+git remote add origin https://github.com/andreacsoft/estudo.git
+git remote -v
+
+git status
